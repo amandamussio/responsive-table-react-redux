@@ -1,0 +1,30 @@
+{
+  "name": "responsive-table-react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandamussio/responsive-table-react-redux.git"
+  },
+  "keywords": [
+    "table",
+    "react",
+    "redux",
+    "responsive",
+    "search"
+  ],
+  "author": "Amanda Macedo Mussio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amandamussio/responsive-table-react-redux/issues"
+  },
+  "homepage": "https://github.com/amandamussio/responsive-table-react-redux#readme",
+  "devDependencies": {
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
