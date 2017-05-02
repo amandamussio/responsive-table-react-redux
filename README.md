@@ -1,1 +1,1 @@
-# responsive-table-react-redux
+# Responsive Table React Redux
